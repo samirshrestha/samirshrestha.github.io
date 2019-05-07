@@ -1,0 +1,17 @@
+- name: Kantipur Engineering College
+  dates: 2009 - 2013
+  qualification: Bachelor's Degree in Computer Engineering
+  quote: >
+    KEC – Kantipur Engineering College, under the affiliation of Tribhuvan University, has been imparting engineering education since 1998 with the objective to produce qualified and proficient engineers capable of facing the engineering challenges of this modern era, where science and technology is dominating every fields of our life.
+  description: | # this will include new lines to allow paragraphs
+    During my time at KEC I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at university and learnt a lot about a healthy work life balance.
+    
+- name: United Academy
+  dates: 2007 - 2009
+  qualification: High School(10+2)
+  quote: >
+    Situated at Kumaripati, Lalitpur, and established in 1997, United Academy affiliated with National Education Board (NEB), Nepal is a secondary school for Science, Management and Humanities.
+  description: | # this will include new lines to allow paragraphs
+    I took science as major during my study at United Academy. This helped me make my base for my further studies.
+    
+
